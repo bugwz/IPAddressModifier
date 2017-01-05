@@ -325,7 +325,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "IPAddressModifier";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "IPAddressModifier";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.IPAddressModifier_Load);
             this.adapterInfo.ResumeLayout(false);
             this.adapterInfo.PerformLayout();
